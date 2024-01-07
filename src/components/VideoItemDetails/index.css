@@ -1,0 +1,40 @@
+.thumbnail-video-item {
+  height: 400px;
+  width: 900px;
+}
+
+.video-item-title {
+  color: #1e293b;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.like-button {
+  border: none;
+  color: #64748b;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.on-click-change-like {
+  border: none;
+  color: #2563eb;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.view-count-like-buttons-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 900px;
+}
+.video-item-container {
+  height: 100vh;
+  width: 80vh;
+  margin-left: 40px;
+  margin-top: 30px;
+}

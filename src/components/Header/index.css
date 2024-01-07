@@ -1,0 +1,92 @@
+.header-website-logo {
+  height: 30px;
+  width: 100px;
+}
+.profile {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.logout-button {
+  height: 30px;
+  width: 100px;
+  color: #4f46e5;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  margin-bottom: 8px;
+  margin-top: 15px;
+  border: 1px solid #4f46e5;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.confirm-button {
+  height: 30px;
+  width: 100px;
+
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  background-color: #4f46e5;
+  margin-bottom: 8px;
+  margin-top: 15px;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.cancel-button {
+  height: 30px;
+  width: 100px;
+
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  background-color: #000000;
+  margin-bottom: 8px;
+  margin-top: 15px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.header-nav-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.profile-logout-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.popup-content {
+  background-color: #000000;
+  border-radius: 5px;
+}
+
+.popup-paragraph {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.theme-btn {
+  border: none;
+  background-color: #ffffff;
+}
+.moon {
+  height: 36px;
+  width: 24px;
+}
+.list-item {
+  list-style-type: none;
+}

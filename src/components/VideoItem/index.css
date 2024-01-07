@@ -1,0 +1,57 @@
+.thumbnail {
+  height: 150px;
+  width: 250px;
+}
+.profileUrl {
+  height: 20px;
+  width: 20px;
+}
+
+.title {
+  color: #475569;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.name {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.view-count {
+  color: #7e858e;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.view-count-published-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+.title-name-view-count-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.video-list-item {
+  list-style-type: none;
+  height: 300px;
+  width: 250px;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.profile-image-text-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
